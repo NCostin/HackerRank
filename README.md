@@ -1,1 +1,1 @@
-# HackerRank
+# Exercises for practice
