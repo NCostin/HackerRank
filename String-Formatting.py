@@ -1,5 +1,5 @@
 '''
-Given an integer, , print the following values for each integer  from  to :
+Given an integer n,print the following values for each integer i from 1 to n :
 
 Decimal
 Octal
